@@ -1,6 +1,6 @@
 ## Subdigi One Page
 
-![Subdigi One Page](image.jpg)
+![Subdigi One Page](image.png)
 
 
 Tailwind One Page Template For Business
