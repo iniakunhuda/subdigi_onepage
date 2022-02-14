@@ -1,7 +1,12 @@
 ## Subdigi One Page
 
+![Subdigi One Page](image.jpg)
+
+
 Tailwind One Page Template For Business
-Dark Mode Version 1.0.0
+Dark Mode 
+
+Version 1.0.0
 
 
 ## Installation
