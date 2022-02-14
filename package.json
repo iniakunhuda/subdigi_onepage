@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build:css": "npx tailwindcss -i ./src/style.css -o ./dist/style.css --watch",
+    "watch:css": "npx tailwindcss -i ./src/style.css -o ./dist/style.css --watch",
+    "build:css": "npx tailwindcss -i ./src/style.css -o ./dist/style.css --minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

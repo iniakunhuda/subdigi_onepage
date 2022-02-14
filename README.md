@@ -8,7 +8,7 @@ Dark Mode Version 1.0.0
 
 1. Clone this project
 2. Install dependencies using npm
-3. Run `npm run build:css` to running the build process
+3. Run `npm run watch:css` to running the build process
 4. Open src/index.html in your browser
 
 
